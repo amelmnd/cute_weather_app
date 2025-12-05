@@ -51,9 +51,6 @@ L’application repose sur trois grands axes issus des exercices des modules :
 ## Structure du projet
 
 ```
-## Structure du projet
-
-```
 cute_weather_app/
 ├── app/
 │   ├── components/                       # Composants réutilisables
