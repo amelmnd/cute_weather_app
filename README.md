@@ -5,7 +5,7 @@ Elle permet d’afficher la météo actuelle, horaire et hebdomadaire, tout en i
 
 ---
 
-## 📌 Description
+## Description
 
 L’application repose sur trois grands axes issus des exercices des modules :
 
@@ -86,7 +86,7 @@ cute_weather_app/
 
 ---
 
-## ⚙️ Installation
+## Installation
 
 ### 1. Cloner le projet
 ```bash
@@ -117,13 +117,12 @@ npm start
 
 ---
 
-## 📸 Aperçu du rendu
+## Aperçu du rendu
 
 _rendu à venir_
 
 ---
 
-## 📜 Licence
+## Licence
 
 Projet réalisé dans le cadre de la Piscine Mobile 42.
-# cute_weather_app
