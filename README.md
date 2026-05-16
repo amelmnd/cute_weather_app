@@ -119,7 +119,13 @@ npm start
 
 ## Aperçu du rendu
 
-_rendu à venir_
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="./readmeImg/LoaderApp.png" width="32%">
+  <img src="./readmeImg/SearchBar.png" width="32%">
+  <img src="./readmeImg/Current.png" width="32%">
+  <img src="./readmeImg/Today.png" width="32%">
+  <img src="./readmeImg/Weekly.png" width="32%">
+</div>
 
 ---
 
